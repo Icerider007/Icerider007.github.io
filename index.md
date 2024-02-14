@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+This is a "blog" I made so that I can put some stuff about Aya
+or related to Aya. 
+Or really just anything in general that I think of
+and feel like I could tell Aya some day.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+So yeah, I'll write a bunch of random shit here as articles and stuff
+Good luck understanding it dumbass
