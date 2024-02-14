@@ -97,13 +97,13 @@ Scene "Walking to the lake"
 - *Both walk in silence and hold hands*
 - *The two make small talk*
 
-** End scene **
+**End scene**
 
 Scene "At the lake"
 - V: You smell good
 - G: Really? I didn't use any perfume though
 
-** cut **
+**cut**
 
 Okay, I can't take this anymore. This feels pretty sad. 
 Uh, it's actually a really happy memory and stuff, but it feels really sad now. 
