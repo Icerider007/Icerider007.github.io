@@ -1,4 +1,4 @@
-This is a "blog" I made so that I can put some stuff about Aya
+This is a "blog" I made where I can post some random shit about Aya
 or related to Aya. 
 Or really just anything in general that I think of
 and feel like I could tell Aya some day.
