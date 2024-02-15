@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024-02-14-Where-did-Aya-go-today.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024-02-14-Where-did-Aya-go-today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024-02-14-Where-did-Aya-go-today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_posts/2024-02-14-Where-did-Aya-go-today.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "e1e495b614267050",
   "lastOpenFiles": [
-    "_posts/2024-02-14-Where-did-Aya-go-today.md",
     "index.md",
+    "_posts/2024-02-14-Where-did-Aya-go-today.md",
     "_posts/2024-02-04-Rocks-in-Puddles.md"
   ]
 }

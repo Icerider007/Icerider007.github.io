@@ -49,7 +49,7 @@ Right, so, if we follow my scattered mental timeline, around New Year's, she wou
 	- She calls him "Teacher Sir" and saved his contact as "Teacher" with a heart emoji and something else
 	- On his instagram profile, under "portfolio", he has several pictures of himself and some auditions. This led me to believe that he is primarily a male model who also works as an actor. (Man, it's kind of awesome that Aya did shit with a male model)
 	- Where does Vijay live?
-		- Originally, Aya didn't want Hisham to meet Vijay, according to what Hisham said. So he dropped her of at St. Thomas Mount, from where Vijay picked her up.
+		- Originally, Aya didn't want Hisham to meet Vijay, according to what Hisham said. So he dropped her off at St. Thomas Mount, from where Vijay picked her up.
 		- Level Up Learning Centre has a branch in Besant Nagar, but I don't know if that's the center where he teaches. However, this is fairly far away from St. Thomas Mount.
 		- Aya posted a picture which showed "Sumathi Apartments" on instagram, but later deleted it. Sumathi Apartments is much closer to St. Thomas Mount.
 		- By putting two and two together, I have now realised, much like a retard who checked Google Maps for the distance between Sumathi Apartments and Level Up Learning Centre, that Sumathi Apartments is RIGHT NEXT TO Level Up Learning Centre
