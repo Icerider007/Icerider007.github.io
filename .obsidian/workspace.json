@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "917db4a58aed47c4",
+        "id": "bf418d0578f2d591",
         "type": "tabs",
         "children": [
           {
-            "id": "e1e495b614267050",
+            "id": "36427ace60b9f8f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-14-V.md",
+                "file": "_posts/2024-02-15-Disappear.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-14-V.md",
+                "file": "_posts/2024-02-15-Disappear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-14-V.md",
+                "file": "_posts/2024-02-15-Disappear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-14-V.md"
+                "file": "_posts/2024-02-15-Disappear.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "e1e495b614267050",
+  "active": "36427ace60b9f8f0",
   "lastOpenFiles": [
-    "index.md",
+    "_posts/2024-02-15-Disappear.md",
     "_posts/2024-02-14-V.md",
+    "index.md",
     "_posts/2024-02-04-Rocks-in-Puddles.md"
   ]
 }
