@@ -20,10 +20,10 @@ Thanvi: That's it
 Aya: he disappeared didn't hr
 Thanvi: No
 Thanvi: He's stubborn
-Thanvi: He seems like he doesn't wanna give up 
+Thanvi: He seems \like he doesn't wanna give up 
 Thanvi: You can see how desperate he is
 Thanvi: Oh and if you're wondering I am somewhat his younger sister
-Thanvi: Not blood tho
+Thanvi: \Not blood tho
 Thanvi: Anyway I really don't expect you to respond
 Thanvi: So let me just say whatever
 Thanvi: Hello I am a random girl who saw you on instagram
