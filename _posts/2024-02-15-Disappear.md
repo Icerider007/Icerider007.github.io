@@ -28,12 +28,12 @@ Thanvi: Anyway I really don't expect you to respond
 Thanvi: So let me just say whatever
 Thanvi: Hello I am a random girl who saw you on instagram
 Aya: >Replying to: Thanvi: He seems like doesn't wanna give up
-		on?
+	on?
 Thanvi: I thought you were pretty cool and good looking have great photography skills
 Aya: aw thengs
 Thanvi: >Replying to: Aya: on?
-		Heh I not quite sure you have to ask back to pictures I really like your
-		makeup what eyeliner do you use
+	Heh I not quite sure you have to ask back to pictures I really like your
+	makeup what eyeliner do you use
 ```
 
 I assume Thanvi was using voice type for most of these messages.
