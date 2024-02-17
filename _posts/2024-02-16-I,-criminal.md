@@ -46,6 +46,7 @@ Aya then arrived in her auto.
 ## 2. Seeing Aya again (Same but (in)different?)
 
 - 7-9 pm
+	  
 	*sigh*
 	This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self. And Hisham's pitiful display at maintaining his character was still fresh on my mind, where he lazily dropped his character completely and let his true motivations shine through.
 	
