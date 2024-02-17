@@ -55,7 +55,7 @@ Aya then arrived in her auto.
 	This would've been a good time to ask about Vijay, maybe, or to hug her. But both things seemed awkward, because I wasn't sure how much I was supposed to know, or whether I was allowed to think she was still attached to me, or even whether the pass still applied. As previously mentioned in <a href="https://icerider007.github.io/2024/02/14/V.html">this article</a>, she also smelled like "Gillette Aftershave Lotion" pretty strongly, and that was distraction. 
 			
 	<figure>
-		<img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/b3cbdaa39ea2e17eab50626f918daa63374703e6/images/NoNeedToAskPassAya.png" alt="Oh? You don't know about the pass?">
+		<img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/b3cbdaa39ea2e17eab50626f918daa63374703e6/assets/NoNeedToAskPassAya.png" alt="Oh? You don't know about the pass?">
 	    <figcaption>Oh? You don't know about the "No Need To Ask Pass"?</figcaption>
 	</figure>
 	
@@ -137,7 +137,7 @@ Aya then arrived in her auto.
 	23. Fortunately for him, the only thing I have on me is a goddamn 500 rs note, and some 20rs notes. So this motherfucker gets what he wants, at least.
 	24. I then try to catch some frogs again, right outside Aishwarya because I don't want to go inside and feel pain 
 	25. I am incredibly fucking tired of everyone's bullshit at this point.
-	26. I go inside, I change clothes, I put some stuff out to dry.
+	26. I go inside, I change clothes, I put the clothes I was wearing out to dry.
 	27. I have a very visible freakout because my character wants to book a bus for tomorrow, but I don't want to do that. Also because my character is supposed to have an inner conflict. He doesn't want to talk to his dad either.
 	28. Aya says some stuff that I don't process exactly, but basically she asked why I was freaking out. I want to kill Hisham. I hold in my anger again. I forget what I did, but I think I just sat there for a while, unable to cry because there's other people, so I just sat there.
 - **12-1 am**
@@ -149,3 +149,57 @@ Aya then arrived in her auto.
 	When Aya told him to stay, and he decided to awkwardly not get on the bed, he tried to signal something to me, which then lead to me asking if he could leave the room for a bit. 
 	
 	Also, something of note is that Aya apparently doesn't remember anything past us listening to spotify music. 
+	
+	Right, so I forgot to mention this earlier, but I brought a cotton sleeping bag liner with me, to be used as a blanket. I took this out, and gave it to Aya to use. She asked me to get in with her, but I said no.
+	
+	After Hisham left, I asked if I could still get in with her, and she said yes. It was kind of a tight squeeze, like I expected. And I don't really remember if I stayed in or if I decided to get out, but when I woke up again I was out. 
+	
+- ??? - ??? am
+	
+	Right, so
+	After Aya said the pass was active, I took it like this "The pass is active, but if I say no, then that's no anyway". Which makes sense, although I wasn't sure cause in the wet dream she had, apparently, I didn't listen when she said no, so I'm really not sure what she was expecting or what would be fun for her.
+	
+	Ah, I know I might be making her sound pretty bad here, but that's not true, it's possible she was just saying stuff. 
+	
+	Besides, what I'm about to say next is gonna cement me as being the worst.
+	Okay. 
+	Let's get this out of the way
+	And be completely honest too
+	Right, so:
+	1. Like the absolute fucking dumbass retard I am, I 
+	2. I checked if Aya was awake
+	3. And she was making noises in response to my questions
+	4. I poked her nipples 
+	5. She had a reaction, in the form of a mild moan (I think, I can't remember at what point she started moaning)
+	6. I then moved onto touching both
+	7. I then moved on to touching them directly, and not through the shirt
+	8. I then moved on to licking them
+	9. She was moaning by this point and her stomach, or hips or something twitched
+	10. And then I remember that she pushed the hand that was playing with one of her nipples, down, all the way to her crotch
+		1. Is it possible that I misunderstood? Maybe she was just trying to push my hand as far down as possible, and the length of her arm coincidentally caused it to overlap with her crotch
+		2. It's possible that in that mental state, my perception itself was altered, and it wasn't really her crotch at all that she was pushing my hand towards
+	11. Regardless, that was the conclusion I reached.
+	12. Oh yeah, I forgot to mention, but somewhere in this, I kissed her and she started making out with me, which also reassured my worries that she was unaware or didn't like what I was doing. 
+	13. Right, so then I started playing with her clit, and her hips starting twitching way more after that
+	14. It's possible that she came a few times. Every now and then, her clit would slip back inside and she would close her legs for a bit before opening them again, with my hand trapped inside. I took this too mean that she was too sensitive after cumming, so I would go back to her nipples with my remaining hand and my mouth
+	15. After a while, of this, her hands once again pushed my hand further down, away from her clit and towards her pussy
+	16. I didn't do anything about this at first, but after 2-3 times, I decided to put a finger inside while using my thumb to stimulate her clit
+	17. The moans got louder at this point (she'd been moaning constantly ever since I started touching her clit)
+	18. Ah! I remember now. THIS is when I made out with her, because I kissed her to keep her quiet
+	19. Honestly, this part of the trip wasn't that bad because I liked the idea that I was able to make her feel good, and give her something she wanted
+	20. Well, eventually, I decided to put my dick inside
+	21. I didn't really have a full boner, it was just a semi, and it kinda kept getting softer, so it was a race against time to get it inside.
+	22. So I fucked her for a bit like that in missionary, but it was extremely tiring and boring. It looked like she wanted me to go faster because the moans were slowing down, by a lot. And they later disappeared. 
+	23. I was tired too, and my boner was gone by this point, so I just decided to stop and sleep
+	24. But I couldn't sleep because I felt lonely, so I thought I'd have her lie down on me.
+	25. So I picked her up and put her on top of my stomach, with her face down.
+	26. She then opened her eyes and got off me
+	27. And immediately had a seizure.
+	28. I stayed calm and said nice things to her about how it'd be alright and how she was fine, and how I was there
+	29. Once it stopped, I put the blanket over her
+	30. She woke up a bit later again, but had no memory of what just happened. This was likely the "post ictal" phase of the seizure where the person themselves acts weird for a bit.
+	31. I have a video of this
+		<video controls>  
+			  <source src="movie.mp4" type="video/mp4">  
+			  Your browser does not support the html video tag.  
+		</video>  
