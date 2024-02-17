@@ -277,4 +277,8 @@ Did she say it was okay beforehand? I'm not sure, because she might've not been 
 
 Did she say it was okay afterwards? Yes, but I dunno if that means it actually was. In fact, it probably wasn't, it's just something she was willing to forgive me for.
 
-Fuck.
+Fuck. Worst of all, I told Hisham afterwards and he said it was fine, that it was normal. Goddamn, Aya's really really in a shitty place.
+
+I hope he was just lying to me, so that I would like him more or because he could lie to Aya and shittalk me nonverbally, or something.
+
+I then almost missed my bus anyway because I spent too long talking to Hisham, but still managed to catch it because I ran and found a way after begging the drivers.
