@@ -59,13 +59,13 @@ Aya then arrived in an auto which Vijay booked and Hisham paid for because she d
 	  
 	*sigh*
 	
-	This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self (Yeah, that was pretty stupid of me to say the least. I really had no reason to care about Hisham alongside Aya. I wish I'd asked Aya before it was okay for me to not get along with Hisham)
+	This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self (Yeah, that was pretty stupid of me to say the least. I really had no reason to care about Hisham alongside Aya. I wish I'd asked Aya before it was okay for me to not get along with Hisham).
 	
 	And Hisham's pitiful display at maintaining his character was still fresh on my mind, where he lazily dropped his character completely and let his true motivations shine through.
 	
 	So I didn't want to do that, even though Hisham got up and left, which had only created further tension. 
 	
-	This would've been a good time to ask about Vijay, maybe, or to hug her. But both things seemed awkward, because I wasn't sure how much I was supposed to know, or whether I was allowed to think she was still attached to me, or even whether the pass still applied. As previously mentioned in <a href="https://icerider007.github.io/2024/02/14/V.html">this article</a>, she also smelled like "Gillette Aftershave Lotion" pretty strongly, and that was distraction. 
+	This would've been a good time to ask about Vijay, maybe, or to hug her. But both things seemed awkward, because I wasn't sure how much I was supposed to know, or whether I was allowed to think she was still attached to me, or even whether the pass still applied. As previously mentioned in <a href="https://icerider007.github.io/2024/02/14/V.html">this article</a>, she also smelled like "Gillette Aftershave Lotion" pretty strongly, and that was distracting. 
 			
 	<figure>
 		<img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/main/assets/NoNeedToAskPassAya.png" alt="This is supposed to be a picture where Aya gives me the pass over text">
