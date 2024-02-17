@@ -26,11 +26,14 @@ Okay, so let me tell you what happened from the moment I met her. Just the impor
 ## 1.  Waiting for Aya and preparing our lies (5pm to 6:50 pm)
 
 - **5-6 pm**
+	  
 	Hisham and I were waiting at BTS (Bombay Tea Stall). We'd gotten there at around 5 pm, and since Aya was going to be there around 7, we kept walking around the area and talking. Admittedly, this was an inherently unpleasant thing to do, and had a higher likelihood of blowing my cover the more I did it.
 	I couldn't help but snap back at Hisham a few times, although in a subdued manner.
 	Still, he didn't show any hostility towards me, instead he brushed off everything I said in a manner that suggested to me that he was indifferent to it since he wouldn't need to deal with me specifically. As though he was indifferent to me in the same way that one is indifferent to a rock that they pick up.
 	This of course, is something that he'd been doing since the very beginning, and I assume this is how he "gets along with" and "is nice to" people when it is necessary. My bloodlust only heightened
+
 - **6-7 pm (Raining)**
+	  
 	Eventually, it started raining, and we went back to BTS at around 6:15 pm. Hisham suggested that I book my bus tickets. He had in fact been slowly telling me things about Aya that would prompt any normal person (including me because I am normal) to hate her, or at the very least be angry at her. And I was a bit angry, but mostly confused at what Hisham was saying. It really is too bad that I was too fucking autistic to break my promise to Hisham and just straight up ask Aya, telling her everything Hisham told me.
 	Okay, that's not true. The reason I didn't tell Aya is because I didn't trust her to not tell Hisham. And I wanted Hisham to keep in touch with me, because even if Aya abandoned me, I would still be able to stay connected to her through Hisham, as well as my alt account, Urich Hunt. At the time though, I only had the vague idea that making Hisham trust me more would be useful.
 	I told him I would book the bus tickets for that night, and leave after I met Aya. Looking back now, with a more optimistic perspective, Aya DID want to meet me still, it's just that it wasn't convenient enough for her to meet me on Saturday, as she would need to go out of her way to do that, and she was busy with something else, that something else being Vijay. Perhaps in her ideal scenario, I would arrive and spend time with her for a long time, and be there any time where she was free enough to meet me.
@@ -55,7 +58,7 @@ Aya then arrived in her auto.
 	This would've been a good time to ask about Vijay, maybe, or to hug her. But both things seemed awkward, because I wasn't sure how much I was supposed to know, or whether I was allowed to think she was still attached to me, or even whether the pass still applied. As previously mentioned in <a href="https://icerider007.github.io/2024/02/14/V.html">this article</a>, she also smelled like "Gillette Aftershave Lotion" pretty strongly, and that was distraction. 
 			
 	<figure>
-		<img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/b3cbdaa39ea2e17eab50626f918daa63374703e6/assets/NoNeedToAskPassAya.png" alt="Oh? You don't know about the pass?">
+		<img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/main/assets/NoNeedToAskPassAya.png" alt="This is supposed to be a picture where Aya gives me the pass over text">
 	    <figcaption>Oh? You don't know about the "No Need To Ask Pass"?</figcaption>
 	</figure>
 	
@@ -73,6 +76,7 @@ Aya then arrived in her auto.
 	Since I didn't have a license, and Aya couldn't drive, Hisham drove. 
 	It was fun holding on to Aya. 
 	We stopped at the railway track, and Hisham told me to get off. There was no reason for him me to get off that I saw. But Hisham was the one driving, and he said he needed to me to get off so he could focus. 
+	
 	So, I got off, wearing Aya's bag. At that point, I wasn't sure if I should start walking to Aishwarya and wait for them there, or if I should just stand there and wait.
 	In hindsight, I should've walked. They were on that scooter for a good 10 minutes, standing in front of that goddamn railway track. 
 	
@@ -103,7 +107,8 @@ Aya then arrived in her auto.
 	But of course, I couldn't ask her about this while Hisham was still in the room. And I wasn't really sure if she disliked me, so I thought carrying her out of the room and asking her would be a bad idea. But in hindsight, I should've just carried her to the roof or balcony or something and asked her questions there. 
 	
 	Anyway, I fell asleep for around 40 minutes at 9 pm.
-- 9pm -12 am
+
+- **9pm -12 am**
 	  
 	This is easily the most depressing part of the trip, even more depressing than what happened the next day, with her ignoring me and shit.
 	
@@ -140,6 +145,7 @@ Aya then arrived in her auto.
 	26. I go inside, I change clothes, I put the clothes I was wearing out to dry.
 	27. I have a very visible freakout because my character wants to book a bus for tomorrow, but I don't want to do that. Also because my character is supposed to have an inner conflict. He doesn't want to talk to his dad either.
 	28. Aya says some stuff that I don't process exactly, but basically she asked why I was freaking out. I want to kill Hisham. I hold in my anger again. I forget what I did, but I think I just sat there for a while, unable to cry because there's other people, so I just sat there.
+
 - **12-1 am**
 	  
 	Something something, Hisham starts playing spotify music, and then we all lie down to listen to some crime podcast that Aya suggested. But then it stops playing? Or it doesn't play at all? I really really don't remember.
@@ -154,7 +160,7 @@ Aya then arrived in her auto.
 	
 	After Hisham left, I asked if I could still get in with her, and she said yes. It was kind of a tight squeeze, like I expected. And I don't really remember if I stayed in or if I decided to get out, but when I woke up again I was out. 
 	
-- ??? - ??? am
+- **??? - ??? am**
 	
 	Right, so
 	After Aya said the pass was active, I took it like this "The pass is active, but if I say no, then that's no anyway". Which makes sense, although I wasn't sure cause in the wet dream she had, apparently, I didn't listen when she said no, so I'm really not sure what she was expecting or what would be fun for her.
@@ -206,4 +212,20 @@ Aya then arrived in her auto.
 	32. Aya was absolutely flabbergasted by the fact that there was sliced bread on top of the wardrobe.
 	33. She asked if I was real, before I started filming
 	34. And she then asked me to turn on the RGB lights, because she didn't realize they weren't set up at the moment, and I wish I could've set them up so I could've made her happy but I tried and failed so no
-	35. 
+	35. She then asked why her pants were off, and then she asked me to put them back on. 
+	36. I put them back on and put the blanket on her again
+	37. Then I hugged her and we were going to sleep
+	38. And then she had another seizure
+	39. And then she woke up again, she didn't remember anything this time
+	40. That was kind of sad
+	41. She went to sleep again
+	42. I also went to sleep
+	43. Apparently, during this whole time, Hisham went out for a smoke, got something to drink, and then slept on the couch while watching some movie or youtube video
+	44. I say apparently, because I don't trust Hisham and it's completely possible that he just sat outside and heard all the moans and shit
+
+- The next day
+	The next day, I woke up next to Aya, and of course I woke up at 6 am as always. 
+	I was super tired though (as always).
+	And then I brushed my teeth, took a shit, I don't think I took a bath.
+	
+	I was super hungry for breakfast though. 
