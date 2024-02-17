@@ -49,9 +49,11 @@ Aya then arrived in her auto.
 This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self. And Hisham's pitiful display at maintaining his character was still fresh on my mind, where he lazily dropped his character completely and let his true motivations shine through.
 So I didn't want to do that, even though Hisham got up and left, which had only created further tension. 
 This would've been a good time to ask about Vijay, maybe, or to hug her. But both things seemed awkward, because I wasn't sure how much I was supposed to know, or whether I was allowed to think she was still attached to me, or even whether the pass still applied. 
-
-<img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/b3cbdaa39ea2e17eab50626f918daa63374703e6/images/NoNeedToAskPassAya.png" alt="Oh? You don't know about the pass?">
+		
+<figure>
+	<img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/b3cbdaa39ea2e17eab50626f918daa63374703e6/images/NoNeedToAskPassAya.png" alt="Oh? You don't know about the pass?">
     <figcaption>Oh? You don't know about the "No Need To Ask Pass"?</figcaption>
+</figure>
 
 I mean, thinking about it now, I feel like I should've just kissed her or something, but, well. *sigh*
 No, I think it's good that I didn't just try it. But I do think I should've asked about whether the pass was still applicable as soon as I met her. Still, I wasn't sure if she still felt any affection for me if I was just a thorn in her side that wouldn't leave. 
