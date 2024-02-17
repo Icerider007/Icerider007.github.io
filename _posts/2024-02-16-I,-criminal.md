@@ -203,3 +203,7 @@ Aya then arrived in her auto.
 			  <source src="https://github.com/Icerider007/Icerider007.github.io/raw/main/assets/PostIctalPhase.mkv" type="video/mp4">  
 			  Your browser does not support the html video tag.  
 		</video>  
+	32. Aya was absolutely flabbergasted by the fact that there was sliced bread on top of the wardrobe.
+	33. She asked if I was real, before I started filming
+	34. And she then asked me to turn on the RGB lights, because she didn't realize they weren't set up at the moment, and I wish I could've set them up so I could've made her happy but I tried and failed so no
+	35. 
