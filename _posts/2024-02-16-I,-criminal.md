@@ -43,19 +43,32 @@ Hisham then broke character (he was convincing me that he hated Aya deeply) and 
 
 Aya then arrived in her auto.
 
-## Aya again, same but (in)different?
+## 2. Seeing Aya again (Same but (in)different?)
 
-*sigh*
-This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self. And Hisham's pitiful display at maintaining his character was still fresh on my mind, where he lazily dropped his character completely and let his true motivations shine through.
-So I didn't want to do that, even though Hisham got up and left, which had only created further tension. 
-This would've been a good time to ask about Vijay, maybe, or to hug her. But both things seemed awkward, because I wasn't sure how much I was supposed to know, or whether I was allowed to think she was still attached to me, or even whether the pass still applied. 
-		
-<figure>
-	<img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/b3cbdaa39ea2e17eab50626f918daa63374703e6/images/NoNeedToAskPassAya.png" alt="Oh? You don't know about the pass?">
-    <figcaption>Oh? You don't know about the "No Need To Ask Pass"?</figcaption>
-</figure>
-
-I mean, thinking about it now, I feel like I should've just kissed her or something, but, well. *sigh*
-No, I think it's good that I didn't just try it. But I do think I should've asked about whether the pass was still applicable as soon as I met her. Still, I wasn't sure if she still felt any affection for me if I was just a thorn in her side that wouldn't leave. 
-The latter is what I assume to be the default reaction if I were to be so persistent with them. Of course, this is based on my own personal experience as well
-
+- 7-9 pm
+	*sigh*
+	This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self. And Hisham's pitiful display at maintaining his character was still fresh on my mind, where he lazily dropped his character completely and let his true motivations shine through.
+	So I didn't want to do that, even though Hisham got up and left, which had only created further tension. 
+	This would've been a good time to ask about Vijay, maybe, or to hug her. But both things seemed awkward, because I wasn't sure how much I was supposed to know, or whether I was allowed to think she was still attached to me, or even whether the pass still applied. 
+			
+	<figure>
+		<img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/b3cbdaa39ea2e17eab50626f918daa63374703e6/images/NoNeedToAskPassAya.png" alt="Oh? You don't know about the pass?">
+	    <figcaption>Oh? You don't know about the "No Need To Ask Pass"?</figcaption>
+	</figure>
+	
+	I mean, thinking about it now, I feel like I should've just kissed her or something, but, well. *sigh*
+	No, I think it's good that I didn't just try it. But I do think I should've asked about whether the pass was still applicable as soon as I met her. Still, I wasn't sure if she still felt any affection for me if I was just a thorn in her side that wouldn't leave. 
+	The latter is what I assume to be the default reaction if I were to be so persistent with them. Of course, this is based on my own personal experience as well
+	
+	Hisham pretended he got a call from Avyukt and went away. I was nervous about talking to Aya, so I didn't really say what was actually on my mind. Instead my brain bonked out and I asked her if she would come to Bangalore with me because there was no one at my house but me. And when she asked to elaborate, once again, I wasn't truthful because I was scared of being honest about my affection to someone who may not be affectionate towards me. Not because I was scared about the consequences to me, but because I was scared of breaking character, because I was keeping Hisham in mind, because I felt it may be seen as humiliating by the character I was supposed to be playing. 
+	
+	And then, it was time to go back to Aishwarya. We decided to go shopping first, for some snacks, and then we decided to go to Aishwarya while riding triples on a scooter. 
+		By the way, while shopping I thought it would be funny if I blocked off Aya's path by standing on one side, and making Hisham stand on the other side.
+		It was cute to see. Aya is very cute. 
+		By the way, all the "anger" I felt was pretty much gone when I saw her. Though I wish I could say the same for the awkwardness and nervousness. I think the only way to make that disappear is to execute Hisham.
+	
+	Since I didn't have a license, and Aya couldn't drive, Hisham drove. 
+	It was fun holding on to Aya. 
+	We stopped at the railway track, and Hisham told me to get off. There was no reason for him me to get off that I saw. But Hisham was the one driving, and he said he needed to me to get off so he could focus. 
+	So, I got off, wearing Aya's bag. At that point, I wasn't sure if I should start walking to Aishwarya and wait for them there, or if I should just stand there and wait.
+	In hindsight, I should've walked. They were on that scooter for a good 10 minutes, standing in front of that goddamn railway track. 
