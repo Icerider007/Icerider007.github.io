@@ -174,7 +174,12 @@ Aya then arrived in an auto which Vijay booked and Hisham paid for because she d
 - **??? - ??? am**
 	
 	Right, so
-	After Aya said the pass was active, I took it like this "The pass is active, but if I say no, then that's no anyway". Which makes sense, although I wasn't sure cause in the wet dream she had, apparently, I didn't listen when she said no, so I'm really not sure what she was expecting or what would be fun for her.
+	
+	After Aya said the pass was active, I took it like this 
+	
+	"The pass is active, but if I say no, then that's no anyway"
+	
+	Which makes sense, although I wasn't sure cause in the wet dream she had, apparently, I didn't listen when she said no, so I'm really not sure what she was expecting or what would be fun for her.
 	
 	Ah, I know I might be making her sound pretty bad here, but that's not true, it's possible she was just saying stuff. 
 	
