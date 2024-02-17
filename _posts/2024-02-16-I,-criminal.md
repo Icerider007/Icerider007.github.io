@@ -51,6 +51,7 @@ So I didn't want to do that, even though Hisham got up and left, which had only 
 This would've been a good time to ask about Vijay, maybe, or to hug her. But both things seemed awkward, because I wasn't sure how much I was supposed to know, or whether I was allowed to think she was still attached to me, or even whether the pass still applied. 
 
 Oh? You don't know about "the pass"?
+
 <img src = "https://raw.githubusercontent.com/Icerider007/Icerider007.github.io/b3cbdaa39ea2e17eab50626f918daa63374703e6/images/NoNeedToAskPassAya.png">
 
 I mean, thinking about it now, I feel like I should've just kissed her or something, but, well. *sigh*
