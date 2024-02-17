@@ -48,7 +48,9 @@ Aya then arrived in her auto.
 - 7-9 pm
 	*sigh*
 	This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self. And Hisham's pitiful display at maintaining his character was still fresh on my mind, where he lazily dropped his character completely and let his true motivations shine through.
+	
 	So I didn't want to do that, even though Hisham got up and left, which had only created further tension. 
+	
 	This would've been a good time to ask about Vijay, maybe, or to hug her. But both things seemed awkward, because I wasn't sure how much I was supposed to know, or whether I was allowed to think she was still attached to me, or even whether the pass still applied. 
 			
 	<figure>
