@@ -181,7 +181,7 @@ Aya then arrived in an auto which Vijay booked and Hisham paid for because she d
 	
 	Which makes sense, although I wasn't sure cause in the wet dream she had, apparently, I didn't listen when she said no, so I'm really not sure what she was expecting or what would be fun for her.
 	
-	Ah, I know I might be making her sound pretty bad here, but that's not true, it's possible she was just saying stuff. 
+	Ah, I know I might be making her sound pretty strange here, but that's not true, it's possible she was just saying stuff. 
 	
 	Besides, what I'm about to say next is gonna cement me as being the worst.
 	Okay. 
