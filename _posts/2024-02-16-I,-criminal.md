@@ -85,7 +85,7 @@ Aya then arrived in an auto which Vijay booked and Hisham paid for because she d
 	
 	Since I didn't have a license, and Aya couldn't drive, Hisham drove. 
 	It was fun holding on to Aya. 
-	We stopped at the railway track, and Hisham told me to get off. There was no reason for him me to get off that I saw. But Hisham was the one driving, and he said he needed to me to get off so he could focus. 
+	We stopped at the railway track, and Hisham told me to get off. There was no reason for me to get off that I saw. But Hisham was the one driving, and he said he needed to me to get off, else he wouldn't be able to cross the railway tracks safely.
 	
 	So, I got off, wearing Aya's bag. At that point, I wasn't sure if I should start walking to Aishwarya and wait for them there, or if I should just stand there and wait.
 	In hindsight, I should've walked. They were on that scooter for a good 10 minutes, standing in front of that goddamn railway track. 
