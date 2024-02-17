@@ -49,7 +49,7 @@ Okay, so let me tell you what happened from the moment I met her. Just the impor
 	
 	We then waited inside in relative silence, I think. Maybe Hisham was spouting more bullshit but I really really couldn't take more of his shit so I had already started to tune him out completely. Unfortunately, though, I think I just ended up giving him a death stare the whole time. It was fine though, it still fit in with my character, because I was supposed to be mad at Aya for not telling me about Vijay. (On that note, I'm super curious about why she didn't tell me. Did she think I would dislike her? It could also just be that it would've been annoying for her to explain. I can't be sure now because I didn't ask back then. Goddamn.)
 	
-	Hisham then broke character (he was convincing me that he hated Aya deeply) and started searching for the auto desperately when it was around time for Aya to get there. This once again stimulated my bloodlust, because, how fucking stupid does he think I am? At least get your fucking acting in order, goddamn. Does he think I'm actually fucking retarded? I stifled my emotions by gripping my phone really hard and not staying seated.
+	Hisham then broke character (he was convincing me that he hated Aya deeply) and started searching for the auto desperately when it was around time for Aya to get there. This once again stimulated my bloodlust, because, how fucking stupid does he think I am? At least get your fucking acting in order, goddamn. Does he think I'm actually fucking retarded? I stifled my emotions by gripping my phone really hard and staying rooted to my seat.
 
 Aya then arrived in her auto.
 
