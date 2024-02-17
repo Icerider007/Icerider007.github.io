@@ -76,4 +76,74 @@ Aya then arrived in her auto.
 	So, I got off, wearing Aya's bag. At that point, I wasn't sure if I should start walking to Aishwarya and wait for them there, or if I should just stand there and wait.
 	In hindsight, I should've walked. They were on that scooter for a good 10 minutes, standing in front of that goddamn railway track. 
 	
-	I checked her bag to see what was inside.
+	I checked her bag to see what was inside and it was barely anything. Maybe she did really stay at her mom's place, is what I thought for a second before I was reminded of the overwhelming evidence to the contrary. An alternate explanation was far more likely, like maybe:
+	- Stopping at her mom's place
+	- Having another bag with clothes
+	- Leaving some clothes at Vijay's place that she could wear when visiting him
+	
+	Well, after waiting a bit longer under some cover, occasionally getting wet in the rain, and constantly reconsidering whether I should go walk to Aishwarya, wait here, or go back to the scooter, my suppression of my doubt led to me waiting there. 
+	
+	I then got on the scooter again, and continued to feel pretty shitty. I felt like I really really didn't belong there. 
+	I then got off before the apartment, and walked in, while Hisham drove Aya in. Once again, I wasn't sure why it had to be done like this. I'd seen people drive in as triples, but I accepted it, did it really matter?
+	
+	Haaaaaaaah. (this signifies a sigh)
+	
+	And of course I went back to 424, changed my clothes (didn't take a bath), and talked to Aya. I can't really remember what we talked. It wasn't really anything that I wanted to talk about, it was just stuff I said because I wanted to hear Aya talking about something, anything. 
+	
+	And then I sat her down on me as a test to see how she'd react, but she said no, and got up, which confused me a bit, and I assumed that "the pass" was something she forgot about already.
+	
+	Uh, after she sat down on the bed, I saw a very visible pussy stain on her pants, like I mentioned before (I think?). 
+	Anyway, she mentioned her libido being super low and stuff.
+	Hisham left and came back. Later on, he would tell me that he was just trying to make her care about him more by acting distant. This felt tiresome
+	
+	Anyway, I think I just kept talking to Aya for a while, and during this time Hisham was playing Valorant or Apex or Fortnite. Likely Apex. Maybe even The Finals. 
+	
+	I drew a V on Aya's leg, as mentioned before. I didn't kiss Aya, though I did think about it. I also asked her whether the pass was still active and she said "Yes", and that just confused me even more. Wait, what was I supposed to do when she said "No" earlier then? Huh? 
+	
+	But of course, I couldn't ask her about this while Hisham was still in the room. And I wasn't really sure if she disliked me, so I thought carrying her out of the room and asking her would be a bad idea. But in hindsight, I should've just carried her to the roof or balcony or something and asked her questions there. 
+	
+	Anyway, I fell asleep for around 40 minutes at 9 pm.
+- 9pm -12 am
+	This is easily the most depressing part of the trip, even more depressing than what happened the next day, with her ignoring me and shit.
+	
+	*sigh*
+	
+	Alright, here we go.
+	1. I wake up at around 10
+		Before we leave though, I carry Gayathri and throw her into the air a few times and it was super fun and she was screaming and laughing with a smile on her face. Good memory. Best part of the trip, by far, easily
+	1. Hisham and I leave Aishwarya and go to the station
+	2. We run because I'll be late otherwise.
+	3. I book a rapido to the location of the bus stop
+	4. I get there, but I can't find the bus. The location is different from the actual bus stop
+	5. I run
+	6. I run for at least 2km with about 4kgs on my back
+	7. I run and run until the bus driver tells me to get to koyambedu
+	8. I check the timings, having an inner conflict because I want to stay with Aya
+	9. I stay in character and resolve the inner conflict by realizing the fact that getting to Koyambedu will take an hour by rapido, and the bus is supposed to get there in 40 minutes
+	10. I call Aya. I am slightly happy that I get to stay with her but my character is enraged at his idiocy
+	11. I book a rapido to Aishwarya. The motherfucker charges me TWICE the fucking price.
+	12. I try to catch a frog as I wait for a rapido
+	13. I catch a frog but it terrifies me so I let it go
+	14. I get on the rapido
+	15. This motherfucker doesn't have a helmet for me so the raindrops smash into my face as we drive. Painful. 
+	16. We reach 
+	17. It's 12 am
+	18. I get off
+	19. My UPI isn't working, bank servers are down..
+	20. I can't ask Hisham (Because he's a little piece of shit and I would never want to owe him money)
+	21. I can't ask Gayathri (Because.. *sigh*)
+	22. I'm just about ready to have a breakdown and kick this motherfucking driver in the face because he's asking for 100 extra. 
+	23. Fortunately for him, the only thing I have on me is a goddamn 500 rs note, and some 20rs notes. So this motherfucker gets what he wants, at least.
+	24. I then try to catch some frogs again, right outside Aishwarya because I don't want to go inside and feel pain 
+	25. I am incredibly fucking tired of everyone's bullshit at this point.
+	26. I go inside, I change clothes, I put some stuff out to dry.
+	27. I have a very visible freakout because my character wants to book a bus for tomorrow, but I don't want to do that. Also because my character is supposed to have an inner conflict. He doesn't want to talk to his dad either.
+	28. Aya says some stuff that I don't process exactly, but basically she asked why I was freaking out. I want to kill Hisham. I hold in my anger again. I forget what I did, but I think I just sat there for a while, unable to cry because there's other people, so I just sat there.
+- **12-1 am**
+	Something something, Hisham starts playing spotify music, and then we all lie down to listen to some crime podcast that Aya suggested. But then it stops playing? Or it doesn't play at all? I really really don't remember.
+	
+	Hisham tries to leave to make Aya feel bad, because I'm there?? I'm not sure why, but considering the fact that he was snuggling up next to Aya until I entered the room again, I assume my presence was a factor in it.
+	
+	When Aya told him to stay, and he decided to awkwardly not get on the bed, he tried to signal something to me, which then lead to me asking if he could leave the room for a bit. 
+	
+	Also, something of note is that Aya apparently doesn't remember anything past us listening to spotify music. 
