@@ -223,7 +223,8 @@ Aya then arrived in her auto.
 	43. Apparently, during this whole time, Hisham went out for a smoke, got something to drink, and then slept on the couch while watching some movie or youtube video
 	44. I say apparently, because I don't trust Hisham and it's completely possible that he just sat outside and heard all the moans and shit
 
-- The next day
+
+- **The next day**
 	The next day, I woke up next to Aya, and of course I woke up at 6 am as always. 
 	I was super tired though (as always).
 	And then I brushed my teeth, took a shit, I don't think I took a bath.
