@@ -51,7 +51,7 @@ Okay, so let me tell you what happened from the moment I met her. Just the impor
 	
 	Hisham then broke character (he was convincing me that he hated Aya deeply) and started searching for the auto desperately when it was around time for Aya to get there. This once again stimulated my bloodlust, because, how fucking stupid does he think I am? At least get your fucking acting in order, goddamn. Does he think I'm actually fucking retarded? I stifled my emotions by gripping my phone really hard and staying rooted to my seat.
 
-Aya then arrived in an auto which Vijay booked and Hisham paid for.
+Aya then arrived in an auto which Vijay booked and Hisham paid for because she didn't have a p.
 
 ## 2. Seeing Aya again (Same but (in)different?)
 
