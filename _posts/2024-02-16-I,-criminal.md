@@ -43,7 +43,7 @@ Hisham then broke character (he was convincing me that he hated Aya deeply) and 
 
 Aya then arrived in her auto.
 
-## Aya again, but (in)different?
+## Aya again, same but (in)different?
 
 *sigh*
 This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self. And Hisham's pitiful display at maintaining his character was still fresh on my mind, where he lazily dropped his character completely and let his true motivations shine through.
@@ -55,5 +55,5 @@ Oh? You don't know about "the pass"?
 
 I mean, thinking about it now, I feel like I should've just kissed her or something, but, well. *sigh*
 No, I think it's good that I didn't just try it. But I do think I should've asked about whether the pass was still applicable as soon as I met her. Still, I wasn't sure if she still felt any affection for me if I was just a thorn in her side that wouldn't leave. 
-The latter is what I assume to be the default for most people.
+The latter is what I assume to be the default reaction if I were to be so persistent with them. Of course, this is based on my own personal experience as well
 
