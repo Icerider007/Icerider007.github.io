@@ -29,7 +29,8 @@ Okay, so let me tell you what happened from the moment I met her. Just the impor
 	  
 	Hisham and I were waiting at BTS (Bombay Tea Stall). We'd gotten there at around 5 pm, and since Aya was going to be there around 7, we kept walking around the area and talking. Admittedly, this was an inherently unpleasant thing to do, and had a higher likelihood of blowing my cover the more I did it.
 	I couldn't help but snap back at Hisham a few times, although in a subdued manner.
-	Still, he didn't show any hostility towards me, instead he brushed off everything I said in a manner that suggested to me that he was indifferent to it since he wouldn't need to deal with me specifically. As though he was indifferent to me in the same way that one is indifferent to a rock that they pick up.
+	Still, he didn't show any hostility towards me, instead he brushed off everything I said in a way that suggested to me he was indifferent to it since he wouldn't need to deal with me specifically. Just like how you'd be indifferent to a stranger and show goodwill, knowing you'll never see them ever again.
+	
 	This of course, is something that he'd been doing since the very beginning, and I assume this is how he "gets along with" and "is nice to" people when it is necessary. My bloodlust only heightened
 
 - **6-7 pm (Raining)**
@@ -63,7 +64,7 @@ Aya then arrived in her auto.
 	</figure>
 	
 	I mean, thinking about it now, I feel like I should've just kissed her or something, but, well. *sigh*
-	No, I think it's good that I didn't just try it. But I do think I should've asked about whether the pass was still applicable as soon as I met her. Still, I wasn't sure if she still felt any affection for me if I was just a thorn in her side that wouldn't leave. 
+	No, I think it's good that I didn't just try it. But I do think I should've asked about whether the pass was still applicable as soon as I met her. Still, I wasn't sure if she still felt any affection for me or if I was just a thorn in her side that wouldn't leave. 
 	The latter is what I assume to be the default reaction if I were to be so persistent with them. Of course, this is based on my own personal experience as well
 	
 	Hisham pretended he got a call from Avyukt and went away. I was nervous about talking to Aya, so I didn't really say what was actually on my mind. Instead my brain bonked out and I asked her if she would come to Bangalore with me because there was no one at my house but me. And when she asked to elaborate, once again, I wasn't truthful because I was scared of being honest about my affection to someone who may not be affectionate towards me. Not because I was scared about the consequences to me, but because I was scared of breaking character, because I was keeping Hisham in mind, because I felt it may be seen as humiliating by the character I was supposed to be playing. 
