@@ -35,8 +35,14 @@ Okay, so let me tell you what happened from the moment I met her. Just the impor
 
 - **6-7 pm (Raining)**
 	  
-	Eventually, it started raining, and we went back to BTS at around 6:15 pm. Hisham suggested that I book my bus tickets. He had in fact been slowly telling me things about Aya that would prompt any normal person (including me because I am normal) to hate her, or at the very least be angry at her. And I was a bit angry, but mostly confused at what Hisham was saying. It really is too bad that I was too fucking autistic to break my promise to Hisham and just straight up ask Aya, telling her everything Hisham told me.
+	Eventually, it started raining, and we went back to BTS at around 6:15 pm. Hisham suggested that I book my bus tickets. 
+	
+	He had in fact been slowly telling me things about Aya that would prompt any normal person (including me because I am normal) to hate her, or at the very least be angry at her. 
+	
+	And I was a bit angry, but mostly confused at what Hisham was saying. It really is too bad that I was too fucking autistic to break my promise to Hisham and just straight up ask Aya, telling her everything Hisham told me.
+	
 	Okay, that's not true. The reason I didn't tell Aya is because I didn't trust her to not tell Hisham. And I wanted Hisham to keep in touch with me, because even if Aya abandoned me, I would still be able to stay connected to her through Hisham, as well as my alt account, Urich Hunt. At the time though, I only had the vague idea that making Hisham trust me more would be useful.
+	
 	I told him I would book the bus tickets for that night, and leave after I met Aya. Looking back now, with a more optimistic perspective, Aya DID want to meet me still, it's just that it wasn't convenient enough for her to meet me on Saturday, as she would need to go out of her way to do that, and she was busy with something else, that something else being Vijay. Perhaps in her ideal scenario, I would arrive and spend time with her for a long time, and be there any time where she was free enough to meet me.
 	
 	Anyway, we agreed to lie to Aya about me not being here, and leaving, but then coming back because I was late for my bus and had to cancel it. I also went out for a piss in the rain and came back completely soaked. Hisham then decided to also go take a walk in the rain because he knew that Gayathri would disproportionately feel bad for me if he was dry. He couldn't really give me a reason beyond "Oh you know, I just thought it would make sense if I was also wet". And instead of giving me an actual reason he started telling me how he would explain him being wet to Gayathri when I asked him to elaborate.
