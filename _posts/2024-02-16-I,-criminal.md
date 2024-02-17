@@ -104,6 +104,7 @@ Aya then arrived in her auto.
 	
 	Anyway, I fell asleep for around 40 minutes at 9 pm.
 - 9pm -12 am
+	  
 	This is easily the most depressing part of the trip, even more depressing than what happened the next day, with her ignoring me and shit.
 	
 	*sigh*
@@ -140,6 +141,7 @@ Aya then arrived in her auto.
 	27. I have a very visible freakout because my character wants to book a bus for tomorrow, but I don't want to do that. Also because my character is supposed to have an inner conflict. He doesn't want to talk to his dad either.
 	28. Aya says some stuff that I don't process exactly, but basically she asked why I was freaking out. I want to kill Hisham. I hold in my anger again. I forget what I did, but I think I just sat there for a while, unable to cry because there's other people, so I just sat there.
 - **12-1 am**
+	  
 	Something something, Hisham starts playing spotify music, and then we all lie down to listen to some crime podcast that Aya suggested. But then it stops playing? Or it doesn't play at all? I really really don't remember.
 	
 	Hisham tries to leave to make Aya feel bad, because I'm there?? I'm not sure why, but considering the fact that he was snuggling up next to Aya until I entered the room again, I assume my presence was a factor in it.
