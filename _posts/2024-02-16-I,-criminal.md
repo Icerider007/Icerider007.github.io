@@ -224,9 +224,57 @@ Aya then arrived in her auto.
 	44. I say apparently, because I don't trust Hisham and it's completely possible that he just sat outside and heard all the moans and shit
 
 
-- **The next day**
-	The next day, I woke up next to Aya, and of course I woke up at 6 am as always. 
-	I was super tired though (as always).
-	And then I brushed my teeth, took a shit, I don't think I took a bath.
-	
-	I was super hungry for breakfast though. 
+## The day I get sidelined by Aya (or was it sideswiped? Fuck I swear there was this one word for getting hit by the side of a car)
+
+The next day, I woke up next to Aya, and of course I woke up at 6 am as always. 
+I was super tired though (as always).
+And then I brushed my teeth, took a shit, I don't think I took a bath.
+
+I was super hungry for breakfast though. I went and lay down next to Aya and listened to music on Avyukt's headphones. It was.. not bad? I felt bad
+I felt guilty.
+I did something bad
+
+The rest of the day is me trying to talk to Aya, but she is ignoring me or avoiding me, or not willing to talk, or Hisham is there nearby. 
+
+Eventually, once I realise that I'll need to leave soon, I drop the analogies and questions, and asking her if she remembers, or waiting for her to ask me why I keep asking if she remembers, and then I tell her everything. I wish I did that
+
+No,  what I actually did is that I just kept saying stuff indirectly which alluded to what happened.
+
+And then I asked her if it was okay, if it was bad, if she hates me
+
+She said it's bad to do to anyone else, but it's okay if it's her. 
+Actually, I don't remember the exact nuance. She did say that it wasn't bad at first, then I asked her again, she said "No, actually, it is bad, but it's okay".
+
+And then she said "You're a man, men are like that", which was a huge blow to my pride.
+What I said in response was 
+
+Me: "No, this happened because I'm Varun"
+Aya: "Is that better or worse?"
+Me: "Neither, it's just different"
+
+And then I guess I looked pretty sad or devastated or something, so she put a hand on my leg? Or my shoulder? I don't remember, but she tried to comfort me.
+
+Speaking of which, she tried to comfort me a few times earlier in the day too when I seemed upset, although while it was pleasant, it didn't do much for me, and I still felt that sense of hopelessness. I wish I could've talked about it more, but I didn't want to spill the beans about Hisham yet.
+
+I thought I could always text Aya about it later. What an idiot.
+
+By the end of the day, I should've been enjoying myself talking to Aya, but I really really wasn't.
+Even though Aya went out of her way to get me to, by talking about YouTube videos, because she knew I would be interested in that, and would be able to follow the conversation.
+
+Well.
+It was a horrible farewell, and honestly, I could've and should've stayed for another day.
+Oh yeah, I also got into a tussle with Aya where she bit me and scratched me a lot.
+My forearm hurt for over a week after that and I have a bite scar on my forearm from it.
+
+Well, that's about it. I committed a straight-up crime. I did something really really bad to Aya.
+You may have just glossed over it and not processed it while you were reading. 
+
+But what I did to her in the night was rape. Aya was half-asleep, so could she give consent? No.
+
+Did she remember what happened? No.
+
+Did she say it was okay beforehand? I'm not sure, because she might've not been thinking straight
+
+Did she say it was okay afterwards? Yes, but I dunno if that means it actually was. In fact, it probably wasn't, it's just something she was willing to forgive me for.
+
+Fuck.
