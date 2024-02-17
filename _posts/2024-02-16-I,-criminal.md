@@ -205,7 +205,7 @@ Aya then arrived in her auto.
 	29. Once it stopped, I put the blanket over her
 	30. She woke up a bit later again, but had no memory of what just happened. This was likely the "post ictal" phase of the seizure where the person themselves acts weird for a bit.
 	31. I have a video of this
-		<video width=100% height=auto controls>  
+		<video width="100%" height="auto" controls>  
 			  <source src="https://github.com/Icerider007/Icerider007.github.io/raw/main/assets/PostIctalPhase.mkv" type="video/mp4">  
 			  Your browser does not support the html video tag.  
 		</video>  
