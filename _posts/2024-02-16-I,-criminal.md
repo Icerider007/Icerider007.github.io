@@ -51,14 +51,17 @@ Okay, so let me tell you what happened from the moment I met her. Just the impor
 	
 	Hisham then broke character (he was convincing me that he hated Aya deeply) and started searching for the auto desperately when it was around time for Aya to get there. This once again stimulated my bloodlust, because, how fucking stupid does he think I am? At least get your fucking acting in order, goddamn. Does he think I'm actually fucking retarded? I stifled my emotions by gripping my phone really hard and staying rooted to my seat.
 
-Aya then arrived in an auto which Vijay booked and Hisham paid for because she didn't have a p.
+Aya then arrived in an auto which Vijay booked and Hisham paid for because she didn't have a phone.
 
 ## 2. Seeing Aya again (Same but (in)different?)
 
 - **7-9 pm**
 	  
 	*sigh*
-	This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self. And Hisham's pitiful display at maintaining his character was still fresh on my mind, where he lazily dropped his character completely and let his true motivations shine through.
+	
+	This was pretty depressing, overall. I missed Aya, sure, but I wasn't sure how to mesh my character with my real self (Yeah, that was pretty stupid of me to say the least. I really had no reason to care about Hisham alongside Aya. I wish I'd asked Aya before it was okay for me to not get along with Hisham)
+	
+	And Hisham's pitiful display at maintaining his character was still fresh on my mind, where he lazily dropped his character completely and let his true motivations shine through.
 	
 	So I didn't want to do that, even though Hisham got up and left, which had only created further tension. 
 	
