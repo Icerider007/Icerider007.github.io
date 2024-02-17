@@ -95,7 +95,7 @@ Aya then arrived in an auto which Vijay booked and Hisham paid for because she d
 	- Having another bag with clothes
 	- Leaving some clothes at Vijay's place that she could wear when visiting him
 	
-	Well, after waiting a bit longer under some cover, occasionally getting wet in the rain, and constantly reconsidering whether I should go walk to Aishwarya, wait here, or go back to the scooter, my suppression of my doubt led to me waiting there. 
+	Well, after waiting a bit longer under some cover, occasionally getting wet in the rain, and constantly reconsidering whether I should go walk to Aishwarya, wait here, or go back to the scooter, the suppression of my doubt led to me waiting there. 
 	
 	I then got on the scooter again, and continued to feel pretty shitty. I felt like I really really didn't belong there. 
 	I then got off before the apartment, and walked in, while Hisham drove Aya in. Once again, I wasn't sure why it had to be done like this. I'd seen people drive in as triples, but I accepted it, did it really matter?
