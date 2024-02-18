@@ -221,10 +221,10 @@ Aya then arrived in an auto which Vijay booked and Hisham paid for because she d
 	29. Once it stopped, I put the blanket over her
 	30. She woke up a bit later again, but had no memory of what just happened. This was likely the "post ictal" phase of the seizure where the person themselves acts weird for a bit.
 	31. I have a video of this
-		<video width="80%" height="50%" controls>  
-			  <source src="https://github.com/Icerider007/Icerider007.github.io/raw/main/assets/PostIctalPhase.mkv" type="video/mp4">  
+		<iframe width="80%" height="50%">  
+			  <source src="https://www.youtube.com/embed/aU_1ZYzpl7o">  
 			  Your browser does not support the html video tag.  
-		</video>  
+		</iframe>  
 	32. Aya was absolutely flabbergasted by the fact that there was sliced bread on top of the wardrobe.
 	33. She asked if I was real, before I started filming
 	34. And she then asked me to turn on the RGB lights, because she didn't realize they weren't set up at the moment, and I wish I could've set them up so I could've made her happy but I tried and failed so no
