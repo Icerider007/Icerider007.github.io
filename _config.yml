@@ -18,14 +18,13 @@ github_username: "githubuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "midnight"
-
 rss: rss
 
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-sitemap
