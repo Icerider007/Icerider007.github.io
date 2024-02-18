@@ -221,7 +221,7 @@ Aya then arrived in an auto which Vijay booked and Hisham paid for because she d
 	29. Once it stopped, I put the blanket over her
 	30. She woke up a bit later again, but had no memory of what just happened. This was likely the "post ictal" phase of the seizure where the person themselves acts weird for a bit.
 	31. I have a video of this
-		<iframe width="30%" height="auto"
+		<iframe width="40%" height="auto"
 		src="https://www.youtube.com/embed/aU_1ZYzpl7o?si=QM-ovsRJph5Tt9hb" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;web-share;controls=0" >
 		</iframe> 
 	1. Aya was absolutely flabbergasted by the fact that there was sliced bread on top of the wardrobe.
