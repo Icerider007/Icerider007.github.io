@@ -20,7 +20,7 @@ github_username: "githubuser"
 #########################################################################################
 theme: "minima"
 minima:
-  skin: solarized
+  skin: dark
 
 rss: rss
 
