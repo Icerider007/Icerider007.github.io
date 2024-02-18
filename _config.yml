@@ -6,7 +6,7 @@ description: "This is just some stuff that I'm pretending Aya will read one day"
 # All of these are optional and can be removed or commented out
 #email: "example@mail.com"
 #twitter_username: "twitteruser"
-#github_username: "githubuser"
+github_username: "githubuser"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
@@ -18,7 +18,7 @@ description: "This is just some stuff that I'm pretending Aya will read one day"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "chirpy"
 
 rss: rss
 
