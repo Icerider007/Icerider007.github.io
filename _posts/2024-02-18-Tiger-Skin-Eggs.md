@@ -1,4 +1,4 @@
-#  These stupid fucking Tiger Skin eggs
+# These stupid fucking Tiger Skin eggs
 
 Alright, so I saw a recipe for these cool looking eggs online.
 They're called tiger skin eggs.
