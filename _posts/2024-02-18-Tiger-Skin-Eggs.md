@@ -3,6 +3,8 @@
 Alright, so I saw a recipe for these cool looking eggs online.
 They're called tiger skin eggs.
 <img src="https://imgs.search.brave.com/yx5s4Iv12dVQ8kGY5Ezs2P6kFQMUCZMZtPHojGr8XeI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zYXZv/dXJ0aGVwaG8uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIz/LzA4L1RpZ2VyLUVn/Z3MtMy5qcGc" width="50%" height="auto">
+
+
 They're basically eggs that are first boiled, and then fried.
 They're not fried with batter, they're JUST fried.
 
