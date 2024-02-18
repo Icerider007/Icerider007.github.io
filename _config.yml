@@ -18,7 +18,7 @@ github_username: "githubuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "chirpy"
+theme: "midnight"
 
 rss: rss
 
@@ -29,6 +29,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-them
 
 titles_from_headings:
   strip_title: true
