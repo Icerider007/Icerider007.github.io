@@ -1,5 +1,0 @@
-video{
-	position: relative;
-}
-
-
