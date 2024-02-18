@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-18-Tiger-Skin-Eggs.md",
+                "file": "_posts/2024-02-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-18-Tiger-Skin-Eggs.md",
+                "file": "_posts/2024-02-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-18-Tiger-Skin-Eggs.md",
+                "file": "_posts/2024-02-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-18-Tiger-Skin-Eggs.md"
+                "file": "_posts/2024-02-18.md"
               }
             }
           }
@@ -149,15 +149,16 @@
   },
   "active": "36427ace60b9f8f0",
   "lastOpenFiles": [
-    "assets/PostIctalPhase.mkv",
+    "archive.md",
+    "_posts/2024-02-18.md",
     "_posts/2024-02-18-Tiger-Skin-Eggs.md",
+    "assets/PostIctalPhase.mkv",
     "_posts/2024-02-16-I,-criminal.md",
     "_posts/2024-02-15-Disappear.md",
     "_posts/2024-02-14-V.md",
     "_posts/2024-02-04-Rocks-in-Puddles.md",
     "Pasted image 20240218112653.png",
     "css/style.css.md",
-    "archive.md",
     "assets/NoNeedToAskPassAya.png",
     "assets",
     "Pasted image 20240217194707.png",
