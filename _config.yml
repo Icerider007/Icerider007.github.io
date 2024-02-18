@@ -26,7 +26,7 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
     
-remote_theme: pages-themes/midnight@v0.2.0
+#remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-sitemap
