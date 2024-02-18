@@ -221,23 +221,21 @@ Aya then arrived in an auto which Vijay booked and Hisham paid for because she d
 	29. Once it stopped, I put the blanket over her
 	30. She woke up a bit later again, but had no memory of what just happened. This was likely the "post ictal" phase of the seizure where the person themselves acts weird for a bit.
 	31. I have a video of this
-		<iframe width="80%" height="50%">  
-			  <source src="https://www.youtube.com/embed/aU_1ZYzpl7o">  
-			  Your browser does not support the html video tag.  
-		</iframe>  
-	32. Aya was absolutely flabbergasted by the fact that there was sliced bread on top of the wardrobe.
-	33. She asked if I was real, before I started filming
-	34. And she then asked me to turn on the RGB lights, because she didn't realize they weren't set up at the moment, and I wish I could've set them up so I could've made her happy but I tried and failed so no
-	35. She then asked why her pants were off, and then she asked me to put them back on. 
-	36. I put them back on and put the blanket on her again
-	37. Then I hugged her and we were going to sleep
-	38. And then she had another seizure
-	39. And then she woke up again, she didn't remember anything this time
-	40. That was kind of sad
-	41. She went to sleep again
-	42. I also went to sleep
-	43. Apparently, during this whole time, Hisham went out for a smoke, got something to drink, and then slept on the couch while watching some movie or youtube video
-	44. I say apparently, because I don't trust Hisham and it's completely possible that he just sat outside and heard all the moans and shit
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/aU_1ZYzpl7o?si=QM-ovsRJph5Tt9hb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" >
+		</iframe> 
+	1. Aya was absolutely flabbergasted by the fact that there was sliced bread on top of the wardrobe.
+	2. She asked if I was real, before I started filming
+	3. And she then asked me to turn on the RGB lights, because she didn't realize they weren't set up at the moment, and I wish I could've set them up so I could've made her happy but I tried and failed so no
+	4. She then asked why her pants were off, and then she asked me to put them back on. 
+	5. I put them back on and put the blanket on her again
+	6. Then I hugged her and we were going to sleep
+	7. And then she had another seizure
+	8. And then she woke up again, she didn't remember anything this time
+	9. That was kind of sad
+	10. She went to sleep again
+	11. I also went to sleep
+	12. Apparently, during this whole time, Hisham went out for a smoke, got something to drink, and then slept on the couch while watching some movie or youtube video
+	13. I say apparently, because I don't trust Hisham and it's completely possible that he just sat outside and heard all the moans and shit
 
 
 ## The day I get sidelined by Aya (or was it sideswiped? Fuck I swear there was this one word for getting hit by the side of a car)
