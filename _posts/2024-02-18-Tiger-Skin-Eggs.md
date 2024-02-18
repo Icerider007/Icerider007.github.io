@@ -25,7 +25,7 @@ I've **also** been getting better at boiling eggs in general, and figuring out h
 So yeah, it hasn't been all bad
 
 I've succeeded in frying the eggs a few times, but never to the level shown in the videos.
-And the biggest problem is that I'm a stupid fucking retard who can't even peel soft-boiled eggs without breaking them into pieces.
+And the biggest problem is that I'm a stupid fucking fuckup who can't even peel soft-boiled eggs without breaking them into pieces.
 
 So that's annoying to deal with every time too.
 Something funny though.
