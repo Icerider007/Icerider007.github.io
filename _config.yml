@@ -18,9 +18,17 @@ github_username: "githubuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
+<<<<<<< HEAD
 theme: minima
 minima:
   skin: dark
+=======
+<<<<<<< HEAD
+theme: "midnight"
+=======
+theme: "minima"
+>>>>>>> 60589ef (	modified:   _config.yml)
+>>>>>>> 86a96e6 (	modified:   _config.yml)
 
 rss: rss
 
