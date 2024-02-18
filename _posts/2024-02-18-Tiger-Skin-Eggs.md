@@ -20,7 +20,9 @@ I've been trying to make this GOD FORSAKEN RECIPE
 
 And I've had little to no success. 
 Although, on the plus side, I've learnt how to make a decent breakfast with only boiled eggs, onions and some spices. I've also been using leftover gravy to make boiled egg curry, which has turned out pretty good.
-I've **also** been getting better at boiling eggs in general, and figuring out how the whole process works and what to do. So yeah, it hasn't been all bad
+I've **also** been getting better at boiling eggs in general, and figuring out how the whole process works and what to do. 
+
+So yeah, it hasn't been all bad
 
 I've succeeded in frying the eggs a few times, but never to the level shown in the videos.
 And the biggest problem is that I'm a stupid fucking retard who can't even peel soft-boiled eggs without breaking them into pieces.
