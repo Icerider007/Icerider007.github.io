@@ -12,3 +12,7 @@ My brain takes it for granted that you know the good stuff, even though you prob
 So yeah, I'll write a bunch of random shit here as articles and stuff
 
 Good luck understanding it dumbass
+
+### FAQ (I ask these questions):
+#### Do I upload the posts on the date? 
+No. I start writing them on that date, but I frequently finish them later cause I'm tired as fuck.
