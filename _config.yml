@@ -6,7 +6,7 @@ description: "This is just some stuff that I'm pretending Aya will read one day"
 # All of these are optional and can be removed or commented out
 #email: "example@mail.com"
 #twitter_username: "twitteruser"
-github_username: "githubuser"
+#github_username: "githubuser"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
@@ -18,15 +18,7 @@ github_username: "githubuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: minima
-minima:
-  skin: dark
-=======
-<<<<<<< HEAD
-=======
 theme: "minima"
->>>>>>> 60589ef (	modified:   _config.yml)
->>>>>>> 86a96e6 (	modified:   _config.yml)
 
 rss: rss
 
@@ -34,7 +26,6 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
     
-#remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-sitemap
