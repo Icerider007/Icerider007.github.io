@@ -24,7 +24,6 @@ minima:
   skin: dark
 =======
 <<<<<<< HEAD
-theme: "midnight"
 =======
 theme: "minima"
 >>>>>>> 60589ef (	modified:   _config.yml)
@@ -40,7 +39,6 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-them
 
 titles_from_headings:
   strip_title: true
