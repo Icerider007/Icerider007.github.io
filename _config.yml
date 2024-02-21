@@ -18,7 +18,6 @@ github_username: "githubuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-<<<<<<< HEAD
 theme: minima
 minima:
   skin: dark
