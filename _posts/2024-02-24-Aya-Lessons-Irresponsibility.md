@@ -70,5 +70,5 @@ I guess the ideal scenario for me, would be to reject someone openly, and then k
 Sounds like a good time regardless.
 
 That's about it for this one.
-See y
+See ya
 
