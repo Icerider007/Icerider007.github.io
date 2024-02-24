@@ -65,3 +65,10 @@ And yeah, rejecting someone isn't a crime either. Whether they keeping loving yo
 
 You don't need to reject them SUBTLY, you can have it all out in the open. Implied rejections are what I've been going with, but obviously, there's lots of room for miscommunication if you're communication with subtext and implications. 
 
+I guess the ideal scenario for me, would be to reject someone openly, and then keep talking to them. Either because they haven't given up, or because they hate me and want to kill me in my sleep because if they can't have me no one can.
+
+Sounds like a good time regardless.
+
+That's about it for this one.
+See y
+
