@@ -95,15 +95,19 @@ What do I want to do because I love her? What do I want HER to do because I love
 - I want her to talk to me? 
 	- I mean, that stuff gets boring though if it's non-stop. We've already seen what happens when you take that to its extreme with Siri, with Eeshan, with Shyam, with Sneha, and even with Sidnt. 
 
+
 - I want her to fuck me? 
 	- We've already covered this
+
 
 - I want her to... hug me really tight a lot? 
 	- Sure, but last time I hugged her I didn't really feel anything except the coldness of her skin, the fragility of her bones and the uncomfortable way that they pressed into me as I hugged tighter and tighter hoping it would change something. And the eventual warmth resulting from the hug, whether it was from my own body heat being trapped or if it was her own warmth that I was suddenly able to feel is something I wasn't sure of.
 	- It's not just that I want her to hug me. That's something I noticed already. 
+	
 
 - I want her to kiss me?
 	- Yeah, I want her to kiss and hug me. And she did. But I'm still here. And it's something that I've accepted that I can do without.
+
 
 So what is it?
 
