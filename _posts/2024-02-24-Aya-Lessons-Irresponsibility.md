@@ -40,9 +40,13 @@ Because I don't want to think of myself as a deplorable human being?
 Aya is smart. Whatever Aya does, just works.
 
 <u> Quick side note </u>
-
-	This is one of those simple and obvious things, like when Aya told me about how she just doesn't wear clothes after taking a bath <a href="https://icerider007.github.io/2024/02/18/Aya-Words.html"> and I took that advice </a> and that straight up just revolutionized my relationship with taking baths. 
-	Awesome thing that I had to mention
+-
+	This is one of those simple and obvious things, like when Aya 
+	told me about how she just doesn't wear clothes after taking a bath 
+	<a href="https://icerider007.github.io/2024/02/18/Aya-Words.html"> and I took that 
+	advice </a> and that straight up just revolutionized my relationship with 
+	taking baths. 
+	Just an awesome thing that I had to mention
 
 
 So I took inspiration from Aya. Aya has tons of admirers and people who like her, people who say nice things to her, usually people who don't actually have a visible impact on her life.
