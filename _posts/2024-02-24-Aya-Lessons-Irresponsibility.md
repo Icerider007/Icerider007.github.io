@@ -7,9 +7,7 @@ All statements are purely based on interpretation and small
 observations and are not to be taken very seriously.
 ```
 
-```Note:
 
-```
 Right, so
 
 I apologize if these posts are slowly becoming more and more informal, first of all.
@@ -40,6 +38,14 @@ Why did I feel the need to be responsible? Because I didn't want to be disliked?
 Because I don't want to think of myself as a deplorable human being?
 
 Aya is smart. Whatever Aya does, just works.
+
+```Quick Side Note:
+
+This is one of those simple and obvious things, like when Aya told me about how she just doesn't wear clothes after taking a bath <a href="https://icerider007.github.io/2024/02/18/Aya-Words.html> and I took that advice </a> and that straight up just revolutionized my relationship with taking baths. 
+
+Awesome thing
+
+```
 
 So I took inspiration from Aya. Aya has tons of admirers and people who like her, people who say nice things to her, usually people who don't actually have a visible impact on her life.
 
