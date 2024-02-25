@@ -1,10 +1,15 @@
 # Aya's Life Lessons : Irresponsibility
 
 ```
-Disclaimer: Aya's Life Lessons is loosely based on real people, but does not claim to accurately depict them or their beliefs. 
-All statements are purely based on interpretation and small observations and are not to be taken very seriously.
+Disclaimer: Aya's Life Lessons is loosely based on real people,
+but does not claim to accurately depict them or their beliefs. 
+All statements are purely based on interpretation and small 
+observations and are not to be taken very seriously.
 ```
 
+```Note:
+
+```
 Right, so
 
 I apologize if these posts are slowly becoming more and more informal, first of all.

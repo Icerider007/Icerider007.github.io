@@ -23,9 +23,11 @@
             "id": "79680945a59847e0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "_posts/2024-02-24-Aya-Lessons-Irresponsibility.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -160,11 +162,11 @@
   },
   "active": "79680945a59847e0",
   "lastOpenFiles": [
-    "_posts/2024-02-18-Aya-Words.md",
-    "_posts/2024-02-24-Aya-Lessons-Irresponsibility.md",
-    "_posts/2024-02-19-Some-Face.md",
-    "_posts/2024-02-14-V.md",
     "_posts/2024-02-15-Disappear.md",
+    "_posts/2024-02-14-V.md",
+    "_posts/2024-02-24-Aya-Lessons-Irresponsibility.md",
+    "_posts/2024-02-18-Aya-Words.md",
+    "_posts/2024-02-19-Some-Face.md",
     "index.md",
     "_posts/2024-02-04-Rocks-in-Puddles.md",
     "_posts/2024-02-16-I,-criminal.md",
