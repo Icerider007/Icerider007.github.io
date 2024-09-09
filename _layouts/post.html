@@ -2,26 +2,32 @@
 layout: default
 ---
 <link href="/css/override.css" rel="stylesheet" type="text/css">
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
+  <header class="post-header" style="margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #e0e0e0;">
+    <h1 class="post-title p-name" itemprop="name headline" style="font-size: 2.5em; font-weight: bold; margin-bottom: 10px;">
+      {{ page.title | escape }}
+    </h1>
+    <p class="post-meta" style="font-size: 0.9em; color: #666;">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
       {% assign author = page.author | default: site.author %}
       {%- if author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-      {%- endif -%}</p>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span>
+          </span>
+      {%- endif -%}
+    </p>
   </header>
 
-  <div class="share-links">
+  <div class="share-links" style="margin-bottom: 20px;">
     {% include sharelinks.html %}
   </div>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content" itemprop="articleBody" style="line-height: 1.6; font-size: 1.1em; color: #333;">
     {{ content }}
     {% include navlinks.html %}
   </div>
