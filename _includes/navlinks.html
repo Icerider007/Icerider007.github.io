@@ -1,21 +1,102 @@
-<hr>
+<style>
+  .post_navi {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px 0;
+    border-top: 1px solid #e0e0e0;
+  }
+
+  .post_navi-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    color: #333;
+  }
+
+  .post_navi-item:hover {
+    background-color: #e0e0e0;
+    transform: translateY(-2px);
+  }
+
+  .post_navi-arrow {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-right: 10px;
+    color: #666;
+  }
+
+  .post_navi-label {
+    font-size: 0.9em;
+    color: #999;
+  }
+
+  .post_navi span {
+    font-size: 1em;
+    font-weight: bold;
+    color: #333;
+  }
+
+  .nav_prev {
+    justify-content: flex-start;
+  }
+
+  .nav_next {
+    justify-content: flex-end;
+  }
+
+  /* Media query for responsiveness */
+  @media (max-width: 600px) {
+    .post_navi-item {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .post_navi-arrow {
+      margin-right: 0;
+      margin-bottom: 5px;
+    }
+  }
+</style>
+
 <div class="post_navi">
   {%- if page.previous.url -%}
   <a class="post_navi-item nav_prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
-    <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Previous Post</div><div><span>{{ page.previous.title }}</span></div>
+    <div class="post_navi-arrow">&lt;</div>
+    <div>
+      <div class="post_navi-label">Previous Post</div>
+      <div><span>{{ page.previous.title }}</span></div>
+    </div>
   </a>
   {%- else -%}
   <a class="post_navi-item nav_prev" href="{{ 'archive.html' | absolute_url }}" title="Blog Archive">
-    <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Blog Archive</div><div><span>Archive of all previous blog posts</span></div>
+    <div class="post_navi-arrow">&lt;</div>
+    <div>
+      <div class="post_navi-label">Blog Archive</div>
+      <div><span>Archive of all previous blog posts</span></div>
+    </div>
   </a>
   {%- endif -%}
+
   {%- if page.next.url -%}
   <a class="post_navi-item nav_next" href="{{ page.next.url }}" title="{{ page.next.title }}">
-    <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Next Post</div><div><span>{{ page.next.title }}</span></div>
+    <div class="post_navi-arrow">&gt;</div>
+    <div>
+      <div class="post_navi-label">Next Post</div>
+      <div><span>{{ page.next.title }}</span></div>
+    </div>
   </a>
   {%- else -%}
   <a class="post_navi-item nav_next" href="{{ 'archive.html' | absolute_url }}" title="Blog Archive">
-    <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Blog Archive</div><div><span>Archive of all previous blog posts</span></div>
+    <div class="post_navi-arrow">&gt;</div>
+    <div>
+      <div class="post_navi-label">Blog Archive</div>
+      <div><span>Archive of all previous blog posts</span></div>
+    </div>
   </a>
   {%- endif -%}
 </div>
